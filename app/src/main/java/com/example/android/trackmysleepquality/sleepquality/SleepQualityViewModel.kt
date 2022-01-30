@@ -15,3 +15,16 @@
  */
 
 package com.example.android.trackmysleepquality.sleepquality
+
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
+import com.example.android.trackmysleepquality.database.SleepNight
+
+class SleepQualityViewModel:ViewModel(){
+
+
+
+
+
+}
